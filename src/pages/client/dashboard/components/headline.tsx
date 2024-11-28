@@ -15,7 +15,7 @@ export default function Headline() {
         
 
         <SquareButton onClick={()=>{console.log("Export Report")}}>
-          <Plus color="#155EEF" />
+          <Plus color="#610646" />
           Export Report
         </SquareButton>
 

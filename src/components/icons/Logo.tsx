@@ -1,8 +1,9 @@
 
+import logo from '../../../public/assets/logo.png'
 
 export default function Logo() {
   return (
-    <div>Logo</div>
+    <img src={logo} alt="" className=' h-[60px]' />
 
 
   );
