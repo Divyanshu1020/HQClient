@@ -9,7 +9,7 @@ import {
     TableHeader,
     TableRow,
   } from "@/components/ui/table";
-import SortBy from "@/components/icons/sortBy";
+import SortBy from "@/components/icons/SortBy";
 import Filter from "@/components/icons/Filter";
 
 const dataFilesTasks = [
